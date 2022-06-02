@@ -4,3 +4,4 @@
 | ----------- | ----------- |
 | ps -aux | Comando statico, para velidar parametros. |
 | top | Comando dinamico, toda informacion en tiempo real. |
+| test | sudo apt-get install *******|
